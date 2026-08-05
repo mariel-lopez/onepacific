@@ -17,7 +17,7 @@ export function EventsPage() {
           <div className="shops-hero-media">
             <img
               src="/images/events.jpg"
-              alt="Outdoor plaza and event space at One Pacific by the Bay"
+              alt="Roof deck gathering space at One Pacific by the Bay"
             />
           </div>
           <div className="shops-hero-copy">

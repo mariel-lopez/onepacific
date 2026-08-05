@@ -8,7 +8,7 @@ import { SiteHeader } from './SiteHeader'
 const HERO_SLIDES = [
   {
     image: '/images/hero-building.jpg',
-    alt: 'One Pacific By The Bay glass tower illuminated at dusk',
+    alt: 'One Pacific by the Bay building exterior at dusk',
   },
   {
     image: '/images/lobby.jpg',
@@ -16,7 +16,7 @@ const HERO_SLIDES = [
   },
   {
     image: '/images/workspace.jpg',
-    alt: 'Modern workspace overlooking the bay',
+    alt: 'Office lobby at One Pacific by the Bay',
   },
 ]
 
@@ -48,7 +48,7 @@ const OFFER_CARDS = [
     tone: 'light' as const,
     title: 'Shops & restaurants',
     image: '/images/shops.jpg',
-    alt: 'Bright retail atrium with tall columns and glass facade',
+    alt: 'Retail corridor with coffee and restaurant storefronts at One Pacific by the Bay',
     body: 'From trendsetting boutiques to must-try restaurants, enjoy a mix of fashion, flavor, and fun—all in one dynamic space designed to inspire and connect.',
     cta: 'Learn more',
     href: '/shops',
@@ -57,7 +57,7 @@ const OFFER_CARDS = [
     tone: 'navy' as const,
     title: 'Workspaces & offices',
     image: '/images/workspace.jpg',
-    alt: 'Modern open workspace with bay views',
+    alt: 'Office lobby at One Pacific by the Bay',
     body: 'Set in the heart of Macapagal, this modern office destination offers world-class design, flexible spaces, and seamless access to premier shops and restaurants. Work, dine, and connect in a vibrant hub where business and lifestyle thrive together.',
     cta: 'Learn more',
     href: '/workspaces',
@@ -66,7 +66,7 @@ const OFFER_CARDS = [
     tone: 'light' as const,
     title: 'Events & culture',
     image: '/images/events.jpg',
-    alt: 'Outdoor courtyard event space at One Pacific',
+    alt: 'Roof deck gathering space at One Pacific by the Bay',
     body: 'From exclusive launches and weekend markets to live performances under the open sky, the plaza and amenity spaces host a calendar of culture that brings the community together.',
     cta: 'Learn more',
     href: '/events',

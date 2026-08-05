@@ -24,7 +24,7 @@ export function ShopsPage() {
           <div className="shops-hero-media">
             <img
               src="/images/shops.jpg"
-              alt="Retail atrium at One Pacific by the Bay"
+              alt="Retail corridor with coffee and restaurant storefronts at One Pacific by the Bay"
             />
           </div>
           <div className="shops-hero-copy">

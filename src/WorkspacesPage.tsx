@@ -17,7 +17,7 @@ export function WorkspacesPage() {
           <div className="shops-hero-media">
             <img
               src="/images/workspace.jpg"
-              alt="Modern office lobby at One Pacific by the Bay"
+              alt="Office lobby at One Pacific by the Bay"
             />
           </div>
           <div className="shops-hero-copy">
