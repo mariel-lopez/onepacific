@@ -14,10 +14,6 @@ const HERO_SLIDES = [
     image: '/images/lobby.jpg',
     alt: 'Grand lobby atrium at One Pacific By The Bay',
   },
-  {
-    image: '/images/workspace.jpg',
-    alt: 'Office lobby at One Pacific by the Bay',
-  },
 ]
 
 const STATS = [
