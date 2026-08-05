@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40" fill="none" role="img" aria-label="Louis Vuitton">
+  <g stroke="#2a2a2a" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" fill="none">
+    <path d="M22 6v20c0 4.4 3.1 7 7.5 7H38"/>
+    <path d="M22 18h16"/>
+    <path d="M58 34V14c0-4.4-3.1-7-7.5-7H42"/>
+    <path d="M58 22H42"/>
+  </g>
+</svg>

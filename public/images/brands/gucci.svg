@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40" fill="none" role="img" aria-label="Gucci">
+  <g stroke="#2a2a2a" stroke-width="2.6" fill="none">
+    <path d="M46 8c9.4 0 17 7.6 17 17s-7.6 17-17 17c-5.2 0-9.9-2.3-13-6"/>
+    <path d="M34 32c-9.4 0-17-7.6-17-17S24.6 0 34 0c5.2 0 9.9 2.3 13 6" transform="translate(0 8)"/>
+  </g>
+  <g stroke="#2a2a2a" stroke-width="2.6" fill="none">
+    <path d="M28 10c-7.2 0-13 5.8-13 13s5.8 13 13 13c3.6 0 6.9-1.5 9.2-3.9"/>
+    <path d="M52 30c7.2 0 13-5.8 13-13s-5.8-13-13-13c-3.6 0-6.9 1.5-9.2 3.9"/>
+  </g>
+  <circle cx="40" cy="20" r="2" fill="#2a2a2a"/>
+</svg>
